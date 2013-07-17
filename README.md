@@ -1,2 +1,3 @@
-ieeeplot
-========
+Formating a paper to the IEEE Journal format is boring and tedious. The pictures are even more delicate and fragile. For matlab plot pictures, [Professor John A. Gubner](https://directory.engr.wisc.edu/ece/faculty/gubner_john) has made a great [manual](http://gubner.ece.wisc.edu/matlabLaTeXandIEEE/matlabPlotForIEEEtran.pdf) about this work with [a pretty example](http://gubner.ece.wisc.edu/matlabLaTeXandIEEE/matlabPlotForIEEEtran.m).
+
+Based on above work, this repo attempts to improve the MATLAB plotting. The object of this repo is to develop a function group to plot IEEE Journal format pictures.
